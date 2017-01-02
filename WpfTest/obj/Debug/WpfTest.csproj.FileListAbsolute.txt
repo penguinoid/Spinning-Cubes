@@ -1,0 +1,15 @@
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.csprojResolveAssemblyReference.cache
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\App.g.cs
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.Cache
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+c:\users\tlamb_000\documents\visual studio 2013\Projects\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\tlamb_000\Documents\Visual Studio 2013\Projects\WpfTest\WpfTest\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\tlamb_000\Documents\Visual Studio 2013\Projects\WpfTest\WpfTest\bin\Debug\Magick.NET-Q16-AnyCPU.xml
