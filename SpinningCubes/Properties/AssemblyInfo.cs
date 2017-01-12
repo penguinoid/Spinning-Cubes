@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WpfTest")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Spinning Cubes")]
+[assembly: AssemblyDescription("Spinning Cubes Screensaver (NB Actually useless at saving screens)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WpfTest")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Penguinoid Ltd")]
+[assembly: AssemblyProduct("Spinning Cubes")]
+[assembly: AssemblyCopyright("Copyright Tim Lambert ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows;
+using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Media.Media3D;
@@ -115,5 +116,15 @@ namespace SpinningCubes
         //        collection.Write(@"C:\Users\tlamb_000\Pictures\WPF\cubes.gif");
         //    }
         //}
+
+        private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }
